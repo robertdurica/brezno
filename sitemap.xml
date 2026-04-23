@@ -1,40 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
-    <loc>https://vrtaniestudnibrezno.sk//</loc>
+    <loc>https://vrtaniestudnibrezno.sk/</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://vrtaniestudnibrezno.sk/vrtanie-studni-benus.html</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://vrtaniestudnibrezno.sk/vrtanie-studni-brusno.html</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://vrtaniestudnibrezno.sk/vrtanie-studni-cierny-balog.html</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://vrtaniestudnibrezno.sk/vrtanie-studni-lopej.html</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://vrtaniestudnibrezno.sk/vrtanie-studni-nemecka.html</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://vrtaniestudnibrezno.sk/vrtanie-studni-podbrezova.html</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://vrtaniestudnibrezno.sk/vrtanie-studni-predajna.html</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://vrtaniestudnibrezno.sk/vrtanie-studni-valaska.html</loc>
+    <lastmod>2026-04-23</lastmod>
+    <priority>0.8</priority>
   </url>
-
 </urlset>
